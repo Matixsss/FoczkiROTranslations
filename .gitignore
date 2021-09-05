@@ -1,0 +1,5 @@
+/*
+!.gitignore
+!System/
+System/*
+!System/itemInfo_Foczki.lua
