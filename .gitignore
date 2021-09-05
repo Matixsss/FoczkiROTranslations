@@ -1,6 +1,4 @@
 /*
-!.gitignore
 !System/
 System/*
 !System/itemInfo_Foczki.lua
-README.md
